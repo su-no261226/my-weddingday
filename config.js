@@ -81,7 +81,7 @@ const CONFIG = {
   // ── 링크 공유 시 나타나는 문구 ──
   kakaoShare: {
     jsKey: "",
-    title: "결혼식에 초대합니다",
+    title: "순호 & 은혜, 우리의 결혼식을 초대합니다.",
     description: ""
   }
 };
