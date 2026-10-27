@@ -52,7 +52,7 @@ const CONFIG = {
 
   // ── 인사말 ──
   invitation: {
-    title: "Our 1st day to forever,\nwe invite you to be\npart of our story.",
+    title: "we invite you to be part of our story.",
     message: "서로의 곁에서 같은 방향을 바라보며\n새로운 시작을 하려 합니다.\n\n저희 두 사람의 첫걸음에 함께하시어\n따뜻한 축복으로 자리를 빛내 주세요.\n\n박순호 · 심은혜 드림"
   },
 
